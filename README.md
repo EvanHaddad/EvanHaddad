@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=evanhaddad&label=Profile%20views&color=0e75b6&style=flat" alt="evanhaddad" /> </p>
 
-- 🔭 I’m currently working on **Authentication System (C++, PHP, HTML))**
+- 🔭 I’m currently working on **Authentication System (C++, PHP, HTML)**
 
 - 🌱 I’m currently learning **React and JavaScript**
 
