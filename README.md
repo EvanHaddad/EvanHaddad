@@ -3,6 +3,8 @@
 <h1 align="center">Hi 👋, I'm Evan Haddad</h1>
 <h3 align="center">A C++ Kernel and usermode developer, PHP(SQL) and HTML developer</h3>
 
+<img align="right" alt="Coding" width="100" src="https://i.giphy.com/media/zgduo4kWRRDVK/giphy.webp">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=evanhaddad&label=Profile%20views&color=0e75b6&style=flat" alt="evanhaddad" /> </p>
 
 - 🔭 I’m currently working on **Authentication System (C++, PHP, HTML))**
@@ -11,6 +13,7 @@
 
 - 💬 Ask me about **C++ or web development**
 
+- 💬 Ask me about **C++ or web development**
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -18,8 +21,9 @@
 
 
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=evanhaddad&show_icons=true&locale=en&layout=compact" alt="evanhaddad" /></p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=evanhaddad&show_icons=true&locale=en" alt="evanhaddad" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=evanhaddad&" alt="evanhaddad" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=evanhaddad&show_icons=true&locale=en&layout=compact" alt="evanhaddad" /></p>
