@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Evan Haddad</h1>
 <h3 align="center">A C++ Kernel and usermode developer, PHP(SQL) and HTML developer</h3>
 
-<img align="right" alt="Coding" width="300" src="https://media.tenor.com/kyeNs4DnuW0AAAAC/dev_animado.gif">
+<img align="right" alt="Coding" width="300" src="https://i.giphy.com/media/FoVzfcqCDSb7zCynOp/giphy.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=evanhaddad&label=Profile%20views&color=0e75b6&style=flat" alt="evanhaddad" /> </p>
 
@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **C++ or web development**
 
-- 📝 Currently Learning **JavaScript and React**
+- 📝 Currently Planning **On how to expand my skillset on JavaScript**
 
 
 <h3 align="left">Languages and Tools:</h3>
