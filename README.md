@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **C++ or web development**
 
-- 💬 Ask me about **C++ or web development**
+- 📝 Currently Learning **JavaScript and React**
 
 
 <h3 align="left">Languages and Tools:</h3>
